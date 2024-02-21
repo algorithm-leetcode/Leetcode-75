@@ -12,3 +12,10 @@ string1, string2의 길이의 GCD를 n이라고 합시다.
 
 
 하지만 길이가 n인 부분문자열이라고 모두 정답은 아닙니다. 길이가 6,  4인 두 문자열의 길이의 gcd는 2이지만, "ABCDEF", "WERW" 처럼 전혀 반복되지 않는다면 답이 될 수 없습니다. 따라서 각 문자열의 부분문자열이 GCD문자열 (위의 경우에는 "AB" 혹은 "WE") 로만 이루어져 있는지 확인하면 됩니다.
+
+
+## 3. kids_with_candies
+
+candies 배열을 돌며 최대값을 구하고 max값을 저장해둡니다.
+이후 candies 배열의 각 원소를 돌며
+candies[i] + extraCandies 가 max보다 크거나 같으면 true, 작으면 false를 추가하고 return 합니다.
