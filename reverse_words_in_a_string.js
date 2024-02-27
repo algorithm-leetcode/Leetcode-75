@@ -11,7 +11,7 @@ var reverseWords = function(s) {
         answer += str;
         answer += " "
     }
-    return answer.trimEnd().trim
+    return answer.trimEnd()
 };
 
 console.log(reverseWords("  ha good   example  "));
