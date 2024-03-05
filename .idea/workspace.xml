@@ -5,6 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e0712960-e9d7-4f17-9715-b08be4446363" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/2week/ASDF.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2week/MoveZeroes.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -43,7 +45,8 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/Users/dmstk/IdeaProjects/cts-beta",
+    "git-widget-placeholder": "es/2week",
+    "last_opened_file_path": "C:/Users/dmstk/Individual_Test/test",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -84,7 +87,8 @@
       <workItem from="1709020056710" duration="1555000" />
       <workItem from="1709169708665" duration="3621000" />
       <workItem from="1709513807533" duration="1690000" />
-      <workItem from="1709544040637" duration="5871000" />
+      <workItem from="1709544040637" duration="6521000" />
+      <workItem from="1709600094074" duration="2142000" />
     </task>
     <servers />
   </component>
