@@ -12,7 +12,6 @@ var longestOnes = function (nums, k) {
   if (k === 0 && nums.every((num) => !num)) return 0;
 
   while (right < nums.length) {
-    console.log(left, right, count);
     if (!nums[right]) count++;
     while (count > k) {
       if (!nums[left]) count--;
